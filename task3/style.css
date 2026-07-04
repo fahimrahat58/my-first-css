@@ -1,0 +1,10 @@
+.red {
+    color: rgb(227, 93, 21);
+}
+.bold {
+    color: aqua;
+}
+
+.red.bold {
+    color: blueviolet;
+}

@@ -1,0 +1,23 @@
+ div {
+           width: auto;
+            border: auto;
+            border-radius: auto;
+            padding: auto;
+            margin: auto;
+            text-align: center;
+            background-color: black;
+            text-align: center;
+        }
+        div h1 {
+            color:blue
+        }
+        div p {
+            font-size: 1rem;
+            color:blueviolet;
+        }
+        .my-button {
+            padding:0%;
+            border: radius 5px; ;
+            color:yellow;
+        }
+           
