@@ -1,0 +1,11 @@
+section{
+ background-color: aqua;
+ width: fit-content; 
+ margin: auto;
+ border: 2px;
+border-radius: 1px;
+padding: 0%;
+text-align: center;
+box-shadow: 5px 5px 5px;
+
+}
